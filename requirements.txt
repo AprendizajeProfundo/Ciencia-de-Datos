@@ -1,0 +1,5 @@
+jaxlib==0.1.*
+numpy==1.18.*
+matplotlib==3.*
+seaborn==0.8.*
+pandas
