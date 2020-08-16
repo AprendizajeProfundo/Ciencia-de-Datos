@@ -30,10 +30,7 @@ datos=pd.DataFrame(np.vstack((x,y)).T, columns=['x','y'])
 datos
 ```
 
-
-
-
-<div>
+<div class="p-Widget jp-RenderedHTMLCommon jp-RenderedHTML jp-mod-trusted jp-OutputArea-output" data-mime-type="text/html">
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
