@@ -3,4 +3,4 @@ Lugar donde subir, contribuir y compartir materiales diseñados para el aprendiz
 
 [Syllabus Ciencia de Datos](./Syllabus_Ciencia_de_datos.ipynb)
 
-[Bases de datos relacionales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Ciencia-de-Datos/blob/master/Cuadernos/Bases_Datos_Relacionales.ipynb)
+Bases de datos relacionales[nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Ciencia-de-Datos/blob/master/Cuadernos/Bases_Datos_Relacionales.ipynb) [HTML]()
